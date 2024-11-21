@@ -1,4 +1,4 @@
-name: 部署布灵图床后端到Cloudflare Workers
+name: Cloudflare Workers1
 
 on:
   push:
